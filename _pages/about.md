@@ -1,12 +1,11 @@
 ---
 permalink: /
+title: "👋 Hi, I'm Rick Wang!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-# 👋 Hi, I'm Rick Wang!
 
 我是一名人工智能研究者，专注于推动 AI 技术的边界。我对 AI 充满热情，尤其是在以下领域：
 
