@@ -1,5 +1,21 @@
 # Authors
 
+Rick:
+  name: "Rick"
+  bio: >-
+    👋 Hi, I'm Rick.
+    AI Researcher focusing on LLMs, Multimodal Models and Reasoning Acceleration.
+    Vintage camera collector and amateur chef.
+  avatar: "/images/profile.jpg"
+  location: "China"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/QHPG-Rick"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "fan166215@gmail.com"
+
 Name Name:
   name        : "Name Name"
   uri         : "http://name.com"
