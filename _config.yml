@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Rick's Blog"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Rick Wang"
 description              : &description "A personal blog about AI and Life. Focusing on LLMs, Multimodal Models, and Reasoning Acceleration."
